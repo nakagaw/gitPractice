@@ -1,3 +1,3 @@
 # gitPractice
 
-コミットB
+コミットC
