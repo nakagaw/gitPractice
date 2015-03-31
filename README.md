@@ -30,5 +30,5 @@ pick コミットID
 - exec（shellでコマンドを実行する）<br>
 引用元：<a href="http://liginc.co.jp/web/tool/79390" target="_blank">"初心者でも分かる！git rebaseの使い方を解説します | 株式会社LIG</a>
 
-
+[ono.rocks](http://ono.rocks/)
 
